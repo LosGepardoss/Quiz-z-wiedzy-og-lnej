@@ -1,0 +1,5 @@
+{
+  "name": "Test wiedzy ogólnej",
+  "description": "Quiz wiedzy ogólnej. 30 pytań, regulowany poziom trudności (1-10), system punktacji i podpowiedzi.",
+  "requestFramePermissions": []
+}
